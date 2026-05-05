@@ -1,5 +1,3 @@
-
-
 const argv = process.argv.slice(2); // slice extrae una porcion del array
 const [metodo, recurso] = argv;
 
